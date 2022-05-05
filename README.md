@@ -1,4 +1,4 @@
-## Olá ! sou o Richard, tenho 25 anos, moro em sp/guarujá.
+## Olá ! Meu nome é Richard, tenho 25 anos, moro em sp/guarujá.
 
 🧑‍🎓 estudante em sistema operacional linux .
 
