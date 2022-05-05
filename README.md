@@ -4,7 +4,7 @@
 
 👨‍💻 aplicações web full stack e django.
 
-🧑‍💻 linguagens que mais utilizo: python e java script .
+🧑‍💻 linguagens que mais utilizo: python e javaScript .
 
 <div align="center">
   <a href="https://www.instagram.com/rhd_013/">
