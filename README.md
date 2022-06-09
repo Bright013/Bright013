@@ -4,7 +4,7 @@
 
 👨‍💻 segurança da informação !
 
-🧑‍💻 hacker hackeia, programador, programa. 
+Programador, programa Hacker hackeia . 
 
 <div align="center">
   <a href="https://www.instagram.com/rhd_013/">
