@@ -2,9 +2,9 @@
 
 🧑‍🎓 estudante em sistema operacional linux .
 
-👨‍💻 aplicações web full stack e django.
+👨‍💻 segurança da informação !
 
-🧑‍💻 linguagens que mais utilizo: python e javaScript .
+🧑‍💻 hacker hackeia, programador, programa. 
 
 <div align="center">
   <a href="https://www.instagram.com/rhd_013/">
