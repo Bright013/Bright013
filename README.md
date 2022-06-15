@@ -1,10 +1,10 @@
 ## Olá ! Meu nome é Richard, tenho 25 anos, moro em sp/guarujá.
 
-🧑‍🎓 estudante em sistema operacional linux .
+🧑‍🎓 estudante em sistema operacional linux e python.
 
 👨‍💻 segurança da informação !
 
-Programador, programa Hacker, hackeia . 
+Adie por um dia, e dez dias passarão .
 
 <div align="center">
   <a href="https://www.instagram.com/rhd_013/">
