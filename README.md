@@ -1,4 +1,4 @@
-## Olá !
+## [ 👨🏻‍💻 ] Olá Bem vindo ao meu perfil, eu sou o Richard Miranda
 
 🧑‍🎓 estudante em sistema operacional linux .
 
