@@ -1,6 +1,6 @@
 ## Olá !
 
-🧑‍🎓 estudante em sistema operacional linux e python.
+🧑‍🎓 estudante em sistema operacional linux .
 
 👨‍💻 segurança da informação !
 
