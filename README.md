@@ -32,10 +32,10 @@ Certificações
 
 
 
-[certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176499/certificadoSOLYD.pdf)
+(https://github.com/Bright013/Bright013/files/9176499/certificadoSOLYD.pdf)
 
-[certificado 'EHE.pdf](https://github.com/Bright013/Bright013/files/9176501/certificado.EHE.pdf)
+(https://github.com/Bright013/Bright013/files/9176501/certificado.EHE.pdf)
 
-[certificadobrunofraga.pdf](https://github.com/Bright013/Bright013/files/9176502/certificadobrunofraga.pdf)
+(https://github.com/Bright013/Bright013/files/9176502/certificadobrunofraga.pdf)
 
 
