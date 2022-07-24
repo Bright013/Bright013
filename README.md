@@ -44,3 +44,4 @@ Certificações
 
 
 
+[PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
