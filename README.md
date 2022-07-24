@@ -29,9 +29,9 @@ Adie por um dia, e dez dias passarão .
 </div>
 Certificações
 
-https://github.com/Bright013/Bright013/files/9176481/certificadoSOLYD.pdf
-https://github.com/Bright013/Bright013/files/9175226/certificado.EHE.pdf
-https://github.com/Bright013/Bright013/files/9175228/certificadobrunofraga.pdf
+file:///C:/Users/Bright/Desktop/certificadoSOLYD.html
+file:///C:/Users/Bright/Desktop/certificado-EHE.html
+file:///C:/Users/Bright/Desktop/certificadobrunofraga.html
 
 
 
