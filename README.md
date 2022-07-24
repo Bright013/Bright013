@@ -27,5 +27,8 @@ Adie por um dia, e dez dias passarão .
 <a href="https://discord.com/channels/998353395964444692/998353396492939407" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-miranda-aa42a3208/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5"></a>
 </div>
-[certificado 'EHE.pdf](https://github.com/Bright013/Bright013/files/9175226/certificado.EHE.pdf)
+Certificações
+
+(https://github.com/Bright013/Bright013/files/9175226/certificado.EHE.pdf)
+(https://github.com/Bright013/Bright013/files/9175228/certificadobrunofraga.pdf)
 
