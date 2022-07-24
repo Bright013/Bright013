@@ -30,6 +30,8 @@ Adie por um dia, e dez dias passarão .
 Certificações
 
 
+
+
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176499/certificadoSOLYD.pdf)
 
 [certificado 'EHE.pdf](https://github.com/Bright013/Bright013/files/9176501/certificado.EHE.pdf)
