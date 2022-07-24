@@ -32,7 +32,11 @@ Certificações
 
 
 [SegurançaDaInformação.pdf](https://github.com/Bright013/Bright013/files/9176516/SegurancaDaInformacao.pdf)
+
+
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176517/certificadoSOLYD.pdf)
+
+
 [EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 
