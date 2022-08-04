@@ -45,3 +45,8 @@ Certificações
 
 
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
+
+
+
+
+[Redes-BackupsDeDados-ACADITI.pdf](https://github.com/Bright013/Bright013/files/9257396/Redes-BackupsDeDados-ACADITI.pdf)
