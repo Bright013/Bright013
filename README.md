@@ -4,6 +4,8 @@
 
 👨‍💻 Linguagem : 🐍Python
 
+🎨 Designer
+
 Adie por um dia, e dez dias passarão .
 
 <div align="center">
