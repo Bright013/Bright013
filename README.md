@@ -33,7 +33,7 @@ Adie por um dia, e dez dias passarão .
 Certificações
 
 
-
+[certificadobrunofraga.pdf](https://github.com/Bright013/Bright013/files/9666929/certificadobrunofraga.pdf)
 
 
 [SegurançaDaInformação.pdf](https://github.com/Bright013/Bright013/files/9176516/SegurancaDaInformacao.pdf)
@@ -45,10 +45,7 @@ Certificações
 [EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 
-
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
-
-
 
 
 [Redes-BackupsDeDados-ACADITI.pdf](https://github.com/Bright013/Bright013/files/9257396/Redes-BackupsDeDados-ACADITI.pdf)
