@@ -1,6 +1,6 @@
 ## [ 👨🏻‍💻 ] Olá Bem vindo ao meu perfil, eu sou o Richard Miranda Amante de Tecnologia e de aprender 🧠💚
 
-🧑‍🎓 estudante em sistema operacional linux .
+🧑‍🎓 estudante IOT.
 
 👨‍💻 Linguagem : 🐍Python
 
