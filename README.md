@@ -1,10 +1,10 @@
-## [ 👨🏻‍💻 ] Olá Bem vindo ao meu perfil, eu sou o Richard Miranda Amante de Tecnologia e de aprender 🧠💚
+## [ 👨🏻‍💻 ] Olá Bem vindo ao meu perfil, eu sou o Richard Miranda. Estudando de IOT 🧠💚
 
-🧑‍🎓 estudante IOT.
+🧑‍🎓 estudando ensino superior de Tecnólogo em análise e desenvolvimento de sistemas.
 
 👨‍💻 Linguagem : 🐍Python
 
-🎨 Designer
+🎨 Designer : https://www.behance.net/richardmiranda013
 
 Adie por um dia, e dez dias passarão .
 
