@@ -1,4 +1,4 @@
-## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil, eu sou o Richard Miranda. EstudanTE de IOT 🧠💚
+## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil, eu sou o Richard Miranda. Estudante de IOT 🧠💚
 
 🧑‍🎓 estudando ensino superior de Tecnólogo em análise e desenvolvimento de sistemas.
 
