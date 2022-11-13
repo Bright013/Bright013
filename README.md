@@ -42,7 +42,7 @@ Certificações
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176517/certificadoSOLYD.pdf)
 
 
-[EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
+[EthicalEssentialsPentest.DSpdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
