@@ -51,7 +51,7 @@ Pela empresa Solidy
 EHE - Ethical Hacking Essentials
 Pela empresa Academia Inovadora de TI (Acadi-TI)
 
-[EthicalEssentialsPentest.Spdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
+[EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 Python Básico
 Pela empresa Solidy
