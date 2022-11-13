@@ -42,7 +42,10 @@ Certificações
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176517/certificadoSOLYD.pdf)
 
 
-[EthicalEssentialsPentest.DSpdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
+EHE - Ethical Hacking Essentials
+Pela empresa Academia Inovadora de TI (Acadi-TI)
+
+[EthicalEssentialsPentest.Spdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
