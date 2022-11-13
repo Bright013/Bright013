@@ -33,12 +33,18 @@ Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie)
 Certificações
 
 
+Semana do Hacking
+Pela empresa Técnicas de Invasão (TDI)
 [certificadobrunofraga.pdf](https://github.com/Bright013/Bright013/files/9666929/certificadobrunofraga.pdf)
 
 
+Plano Imediato para Aprender Hacking ainda em 2022
+Pela empresa Técnicas de Invasão (TDI)
 [SegurançaDaInformação.pdf](https://github.com/Bright013/Bright013/files/9176516/SegurancaDaInformacao.pdf)
 
 
+Introdução ao Hacking e Pentest 2.0
+Pela empresa Solidy
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176517/certificadoSOLYD.pdf)
 
 
@@ -47,8 +53,11 @@ Pela empresa Academia Inovadora de TI (Acadi-TI)
 
 [EthicalEssentialsPentest.Spdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
-
+Python Básico
+Pela empresa Solidy
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
 
 
+NDE - Network Defense Essentials
+Pela empresa Academia Inovadora de TI (Acadi-TI)
 [Redes-BackupsDeDados-ACADITI.pdf](https://github.com/Bright013/Bright013/files/9257396/Redes-BackupsDeDados-ACADITI.pdf)
