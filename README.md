@@ -33,12 +33,12 @@ Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie)
 Certificações
 
 
-Semana do Hacking
-Pela empresa Técnicas de Invasão (TDI)
+Plano Imediato para Aprender Hacking ainda em 2022 Pela empresa Técnicas de Invasão (TDI)
 [certificadobrunofraga.pdf](https://github.com/Bright013/Bright013/files/9666929/certificadobrunofraga.pdf)
 
 
-Plano Imediato para Aprender Hacking ainda em 2022
+
+Semana do Hacking
 Pela empresa Técnicas de Invasão (TDI)
 [SegurançaDaInformação.pdf](https://github.com/Bright013/Bright013/files/9176516/SegurancaDaInformacao.pdf)
 
@@ -49,8 +49,8 @@ Pela empresa Solidy
 
 
 EHE - Ethical Hacking Essentials
-Pela empresa Academia Inovadora de TI (Acadi-TI)
-
+Pela empresa Academia Inovadora
+de TI (Acadi-TI)
 [EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 Python Básico
