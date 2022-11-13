@@ -1,12 +1,12 @@
 ## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil, eu sou o Richard Miranda. Estudante de IOT 🧠💚
 
-🧑‍🎓 Estudando ensino superior de Tecnólogo em análise e desenvolvimento de sistemas.
+🧑‍🎓 Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas (1º semestre)
+Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie) 
 
 👨‍💻 Linguagem : 🐍Python
 
 🎨 Designer : https://www.behance.net/richardmiranda013
 
-Adie por um dia, e dez dias passarão .
 
 <div align="center">
   <a href="https://www.instagram.com/rhd_013/">
