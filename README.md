@@ -30,7 +30,12 @@ Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie)
   <a href="https://www.linkedin.com/in/richard-miranda-aa42a3208/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5"></a>
 </div>
 
-Certificações
+
+
+
+
+
+Certificações:
 
 
 
