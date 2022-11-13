@@ -33,6 +33,12 @@ Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie)
 Certificações
 
 
+
+
+
+
+
+
 Plano Imediato para Aprender Hacking ainda em 2022 Pela empresa Técnicas de Invasão (TDI)
 [certificadobrunofraga.pdf](https://github.com/Bright013/Bright013/files/9666929/certificadobrunofraga.pdf)
 
