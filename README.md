@@ -72,3 +72,7 @@ Pela empresa Solidy
 NDE - Network Defense Essentials
 Pela empresa Academia Inovadora de TI (Acadi-TI)
 [Redes-BackupsDeDados-ACADITI.pdf](https://github.com/Bright013/Bright013/files/9257396/Redes-BackupsDeDados-ACADITI.pdf)
+
+DESEC - Pentest e documentação
+Pela empresa DESEC
+[certificado-pentest-DESEC.pdf](https://github.com/Bright013/Bright013/files/10099619/certificado-pentest-DESEC.pdf)
