@@ -3,7 +3,7 @@
 🧑‍🎓 Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas (1º semestre)
 Faculdade de Tecnologia e Ciências do Norte do Paraná (UniFatecie) 
 
-👨‍💻 Linguagem : 🐍Python
+👨‍💻 Linguagem : 🐍 & 🐧
 
 🎨 Designer : https://www.behance.net/richardmiranda013
 
