@@ -55,7 +55,7 @@ Pela empresa Técnicas de Invasão (TDI)
 
 
 Introdução ao Hacking e Pentest 2.0
-Pela empresa Solidy
+Pela empresa Solyd
 [certificadoSOLYD.pdf](https://github.com/Bright013/Bright013/files/9176517/certificadoSOLYD.pdf)
 
 
@@ -65,7 +65,7 @@ de TI (Acadi-TI)
 [EthicalEssentialsPentest.pdf](https://github.com/Bright013/Bright013/files/9176518/EthicalEssentialsPentest.pdf)
 
 Python Básico
-Pela empresa Solidy
+Pela empresa Solyd
 [PythonEmpresaSolyd.pdf](https://github.com/Bright013/Bright013/files/9176724/PythonEmpresaSolyd.pdf)
 
 
