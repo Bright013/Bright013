@@ -1,6 +1,6 @@
 ## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil, eu sou o Richard Miranda. Estudante de IOT 🧠💚
 
-🧑‍🎓 Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas (1º semestre) UniFatecie.
+🧑‍🎓 Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas (2º semestre) UniFatecie.
 
 👨‍💻 Linguagem : 🐍 & 🐧
 
