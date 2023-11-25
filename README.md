@@ -1,10 +1,12 @@
-## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil, eu sou o Richard Miranda. Estudante de IOT 🧠💚
+## [ 👨🏻‍💻 ] Olá. Bem vindo ao meu perfil. Me chamo Richard Miranda. Estudante de IOT 🧠💚
 
 🧑‍🎓 Curso Superior - Tecnologia em Análise e Desenvolvimento de Sistemas (2º semestre) UniFatecie.
 
 👨‍💻 Linguagem : 🐍 & 🐧
 
 🎨 Designer : https://www.behance.net/richardmiranda013
+
+💻 Gestor de tráfego 
 
 
 <div align="center">
